@@ -2,7 +2,7 @@
     "name": "",
     "icons": [
         {
-            "src": "https://cdn.rawgit.com/mylastof/assets/b31b640c/android-chrome-192x192.png",
+            "src": "https://cdn.jsdelivr.net/gh/mylastof/assets@b31b640c/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         }
